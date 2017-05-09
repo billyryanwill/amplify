@@ -1,0 +1,35 @@
+{
+    "Data": {
+        "abc123":{
+                "songTitle": "Waterfall",
+                "playCount":1,
+                "duration":3.52,
+                "artist": {
+                    "001" : {
+                        "name":"The Stone Roses"
+                    }
+                }
+            },
+            "def123": {
+                "songTitle": "She Bangs The Drums",
+                "playCount":25,
+                "duration":4.39,
+                "artist": {
+                    "001" : {
+                        "name":"The Stone Roses"
+                    }
+                }
+            },
+        
+            "ghi123": {
+                "songTitle": "Fools Gold",
+                "playCount":12,
+                "duration":9.59,
+                "artist": {
+                    "001" : {
+                        "name":"The Stone Roses"
+                    }
+                }
+            }
+        }            
+}
